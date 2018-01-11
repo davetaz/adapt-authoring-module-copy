@@ -8,4 +8,4 @@ USAGE: php move.php <source_module_id> <destination_course_id>
 
 Move all content from one course to another (emptying the original). Much more stable.
 
-USAGE: php move.php <source_course_id> <destination_course_id>
+USAGE: php move_all.php <source_course_id> <destination_course_id>
